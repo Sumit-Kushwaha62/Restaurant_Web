@@ -2,7 +2,7 @@
 
 A beautifully designed **restaurant website** built using **HTML, CSS, and JavaScript**. This project showcases a modern and user-friendly interface for a restaurant business.  
 
-![Restaurant Web Preview](#) *(Replace with an actual screenshot link if available)*  
+![Restaurant Web Preview](images/SampleImage1.png)  
 
 ---
 
