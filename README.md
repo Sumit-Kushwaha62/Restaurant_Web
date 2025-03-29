@@ -7,7 +7,7 @@ A beautifully designed **restaurant website** built using **HTML, CSS, and JavaS
 ---
 
 ## 🌍 Live Demo  
-🔗 **[View Website](https://your-netlify-link-here)** *(Replace with actual Netlify link)*  
+🔗 **[View Website](https://restaurantweb76.netlify.app/)**  
 
 ---
 
